@@ -19,6 +19,15 @@ theme:
         name: Switch to light mode
   icon:
     logo: material/sword
+    repo: material/github
+    edit: material/pencil-plus
   features:
     - navigation.tracking
     - navigation.expand
+    - search.share
+    - navigation.footer
+    - content.action.edit
+  custom_dir: overrides
+repo_url: https://github.com/AirTechWick/grim-docs    
+repo_name: AirTechWick/grim-docs
+edit_uri: edit/main/docs/

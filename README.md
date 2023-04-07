@@ -1,2 +1,5 @@
 # Grim Docs
-Unofficial modding documentation/guide to the video game Grim Dawn
+
+Unofficial modding documentation/guide for the video game Grim Dawn
+
+https://airtechwick.github.io/grim-docs/

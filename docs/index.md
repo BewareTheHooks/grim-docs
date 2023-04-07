@@ -1,20 +1,10 @@
 ---
 comments: true
 ---
-# Welcome to MkDocs
+# Welcome to Grim Docs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+For Official documentation visit [grimdawn.com](https://www.grimdawn.com/guide/game-settings/modding/)
 
-## Commands
+For the Modding Forums visit [forums.crateentertainment.com](https://forums.crateentertainment.com/c/grimdawn/modding-tutorials-and-help/33)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+![fantasy-warrior](images/home/fantasy-warrior.png){ width="300" }

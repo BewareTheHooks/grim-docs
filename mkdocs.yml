@@ -1,4 +1,13 @@
 site_name: Grim Docs
+
+nav:
+    - Home: 'index.md'
+    - User Guide:
+        - 'Modding Tools': mod-tools.md
+        - 'Styling your docs': 'styling-your-docs.md'
+    - About:
+        - 'Release Notes': 'release-notes.md'
+
 theme:
   name: material
   palette: 
@@ -9,7 +18,6 @@ theme:
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
-
     # Palette toggle for dark mode
     - scheme: slate
       primary: red
@@ -24,10 +32,15 @@ theme:
   features:
     - navigation.tracking
     - navigation.expand
+    - navigation.top
     - search.share
     - navigation.footer
     - content.action.edit
   custom_dir: overrides
+
 repo_url: https://github.com/AirTechWick/grim-docs    
 repo_name: AirTechWick/grim-docs
 edit_uri: edit/main/docs/
+
+markdown_extensions:
+  - attr_list

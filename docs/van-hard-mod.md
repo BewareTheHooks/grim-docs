@@ -1,7 +1,9 @@
 ---
 comments: true
 ---
-# Fake Hard Modding
+# Method Discovery by [GlockenGerda](https://forums.crateentertainment.com/u/glockengerda/summary)
+
+## Van_Houck Hard Modding Tutorial
 
 Author: [Van_Houck](https://forums.crateentertainment.com/u/Van_Houck)
 
@@ -24,3 +26,5 @@ Doing this allows one to play this (or any, actually) mod with main campaign cha
 * If on Steam, right-click Grim Dawn inside your Library > Properties > Add /basemods to Launch Options
 * If you are using Grim Internals, right-click GrimInternals64 > Create shortcut > right-click GrimInternals64 - Shortcut > Properties > Add /basemods to the end of Target (behind the ")
 * If you are using the GOG version, do the same as above but with the Grim Dawn.exe
+
+Then you are done!

@@ -2,6 +2,7 @@ site_name: Grim Docs
 
 nav:
     - Home: 'index.md'
+    - 'How to Edit an Item': import-single-record.md
     - User Guide:
         - 'Modding Tools': mod-tools.md
         - 'Styling your docs': 'styling-your-docs.md'

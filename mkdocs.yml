@@ -2,13 +2,14 @@ site_name: Grim Docs
 
 nav:
     - Home: 'index.md'
+    - About: 'about.md'
+    - Official PDF Guide: crate-pdf-guide.md
     - How to Edit an Item: import-single-record.md
     - Hard Modding: 
       - VanH Hard Mod Tutorial: van-hard-mod.md
       - tqFan Hard Mod Tutorial: tqfan-hard-mod.md
     - Base Game Tools:
       - Modding Tools: mod-tools.md
-    - About: 'about.md'
 
 theme:
   name: material

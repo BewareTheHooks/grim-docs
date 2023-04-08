@@ -2,7 +2,7 @@
 comments: true
 ---
 
-# How to Add and Edit a Single Base Game item or character
+# How to Add and Edit a Single Base Game Item or Character
 
 For my example I am going to import an NPC called Captain John Bourbon
 

@@ -2,7 +2,8 @@ site_name: Grim Docs
 
 nav:
     - Home: 'index.md'
-    - 'How to Edit an Item': import-single-record.md
+    - How to Edit an Item: import-single-record.md
+    - Hard Modding Method: van-hard-modding.md
     - Base Game Tools:
         - 'Modding Tools': mod-tools.md
     - 'About': 'about.md'

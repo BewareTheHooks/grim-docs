@@ -4,7 +4,8 @@ nav:
     - Home: 'index.md'
     - How to Edit an Item: import-single-record.md
     - Hard Modding: 
-      - VanH Tutorial: van-hard-mod.md
+      - VanH Hard Mod Tutorial: van-hard-mod.md
+      - tqFan Hard Mod Tutorial: tqfan-hard-mod.md
     - Base Game Tools:
       - Modding Tools: mod-tools.md
     - About: 'about.md'

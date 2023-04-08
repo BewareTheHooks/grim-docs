@@ -47,6 +47,6 @@ After you're done changing stats and editing numbers, you'll need to build your 
 
 ## Step 7: Launch the game and test the changes
 
-Once your mod has been built, launch Grim Dawn and select your mod from the "Custom Game" menu. Create a new character or load an existing one, and test out the changes you made to the creature record. If everything worked correctly, the new creature should be present in the game!
+Once your mod has been built, launch Grim Dawn and select your mod from the "Custom Game" menu. Create a new character or load an existing one, and test out the changes you made. If everything worked correctly, the new feature should be present in the game!
 
 ![customgame](images/customgame.png)

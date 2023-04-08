@@ -7,4 +7,6 @@ For Official documentation visit [grimdawn.com](https://www.grimdawn.com/guide/g
 
 For the Modding Forums visit [forums.crateentertainment.com](https://forums.crateentertainment.com/c/grimdawn/modding-tutorials-and-help/33)
 
-![fantasy-warrior](images/home/fantasy-warrior.png){ width="300" }
+<figure markdown>
+![fantasy-warrior](images/home/fantasy-warrior.png){ width="300"}
+</figure>

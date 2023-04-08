@@ -3,11 +3,9 @@ site_name: Grim Docs
 nav:
     - Home: 'index.md'
     - 'How to Edit an Item': import-single-record.md
-    - User Guide:
+    - Base Game Tools:
         - 'Modding Tools': mod-tools.md
-        - 'Styling your docs': 'styling-your-docs.md'
-    - About:
-        - 'Release Notes': 'release-notes.md'
+    - 'About': 'about.md'
 
 theme:
   name: material
@@ -45,3 +43,4 @@ edit_uri: edit/main/docs/
 
 markdown_extensions:
   - attr_list
+  - md_in_html

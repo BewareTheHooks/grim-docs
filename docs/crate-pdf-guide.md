@@ -1,4 +1,4 @@
-# Grim Dawn Modding Tools
+# Grim Dawn PDF Guide 
 
 Version 1.2 ©2016 Crate Entertainment, LLC.
 

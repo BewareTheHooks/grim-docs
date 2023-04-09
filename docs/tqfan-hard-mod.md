@@ -1,10 +1,6 @@
 ---
 comments: true
 ---
-
-## Method Discovery by [GlockenGerda](https://forums.crateentertainment.com/u/glockengerda/summary)
-
-
 # tqFan Hard Modding Tutorial
 Author: [tqFan](https://forums.crateentertainment.com/u/tqFan)
 

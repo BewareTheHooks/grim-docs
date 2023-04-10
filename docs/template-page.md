@@ -8,4 +8,7 @@ Author: [Your Name](https://via.placeholder.com/600x400 )
  
 3. Scroll Down and Make a Pull Request!
 
+* Make a Github account 
+
 ## H2 Headers Go to the Table of Contents on the right!
+

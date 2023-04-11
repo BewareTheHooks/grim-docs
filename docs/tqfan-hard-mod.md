@@ -3,6 +3,7 @@ comments: true
 ---
 # tqFan Hard Modding Tutorial
 Author: [tqFan](https://forums.crateentertainment.com/u/tqFan)
+Method Discovery by [GlockenGerda](https://forums.crateentertainment.com/u/glockengerda/summary)
 
 This new method of hardmodding is great because
 
@@ -35,6 +36,6 @@ Allows to run two mods at the same time - one hardmodded using this method and a
 
 - You can optionally rename this shortcut so that you known it launches modded Grim Dawn
 
-- Alternatively instead of making a shortcut you can add -basemods option in Steam Launch settingss
+- Alternatively instead of making a shortcut you can add -basemods option in Steam Launch settings
 
 - Launch the game from the shortcut

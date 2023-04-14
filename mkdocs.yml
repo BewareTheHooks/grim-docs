@@ -13,6 +13,7 @@ nav:
       - tqFan Hard Mod Tutorial: tqfan-hard-mod.md
     - Base Game Tools:
       - Modding Tools: mod-tools.md
+    - Modpacks: modpacks.md
     - Add Page Here: template-page.md
 
 theme:

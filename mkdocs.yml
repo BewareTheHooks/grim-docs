@@ -14,7 +14,7 @@ nav:
     - Base Game Tools:
       - Modding Tools: mod-tools.md
     - Modpacks: modpacks.md
-    - Add Page Here: template-page.md
+    - Add Page [ + ]: template-page.md
 
 theme:
   name: material

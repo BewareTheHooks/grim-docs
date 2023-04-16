@@ -3,7 +3,6 @@ site_name: Grim Docs
 nav:
     - Home: 'index.md'
     - About: 'about.md'
-    - Official PDF Guide: crate-pdf-guide.md
     - Editing a Base Game Item: import-single-record.md
     - Edit NPCs Name: 
       - powbam Edit NPC Name: powbam-edit-name.md
@@ -13,6 +12,7 @@ nav:
       - tqFan Hard Mod Tutorial: tqfan-hard-mod.md
     - Mods on Steamdeck: steam-deck-mods.md
     - Modpacks: modpacks.md
+    - Official PDF Guide: crate-pdf-guide.md
     - Add Page [ + ]: template-page.md
 
 theme:

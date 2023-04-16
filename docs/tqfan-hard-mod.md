@@ -2,7 +2,9 @@
 comments: true
 ---
 # tqFan Hard Modding Tutorial
+
 Author: [tqFan](https://forums.crateentertainment.com/u/tqFan)
+
 Method Discovery by [GlockenGerda](https://forums.crateentertainment.com/u/glockengerda/summary)
 
 This new method of hardmodding is great because

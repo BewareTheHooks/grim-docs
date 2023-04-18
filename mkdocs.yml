@@ -3,6 +3,9 @@ site_name: Grim Docs
 nav:
     - Home: 'index.md'
     - About: 'about.md'
+    - Modding Setup: 
+      - Setup Guide 1: 'setup1.md'
+      - Setup Guide 2: 'setup2.md'
     - Editing a Base Game Item: import-single-record.md
     - Edit NPCs Name: 
       - powbam Edit NPC Name: powbam-edit-name.md

@@ -2,7 +2,7 @@
 
 UnOfficial modding documentation/guide for Grim Dawn
 
-https://airtechwick.github.io/grim-docs/
+https://grimdocs.app
 
 ## Cloning the Repo?
 ## To Get Started Use 

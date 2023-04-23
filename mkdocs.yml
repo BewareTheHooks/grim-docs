@@ -3,15 +3,22 @@ site_name: Grim Docs
 nav:
     - Home: 'index.md'
     - About: 'about.md'
-    - Official PDF Guide: crate-pdf-guide.md
-    - How to Edit an Item: import-single-record.md
+    - Modding Setup: 
+      - Setup Guide 1: 'setup1.md'
+      - Setup Guide 2: 'setup2.md'
+    - Editing a Base Game Item: import-single-record.md
+    - Edit NPCs Name: 
+      - powbam Edit NPC Name: powbam-edit-name.md
+      - Denis Edit Name Lite: denis-edit-name.md
     - Hard Modding: 
       - VanH Hard Mod Tutorial: van-hard-mod.md
       - tqFan Hard Mod Tutorial: tqfan-hard-mod.md
     - PSEditor :
       - PSEditor Tutorial: pseditor.md
-    - Base Game Tools:
-      - Modding Tools: mod-tools.md
+    - Mods on Steamdeck: steam-deck-mods.md
+    - Modpacks: modpacks.md
+    - Official PDF Guide: crate-pdf-guide.md
+    - Add Page [ + ]: template-page.md
 
 theme:
   name: material
@@ -41,6 +48,7 @@ theme:
     - search.share
     - navigation.footer
     - content.action.edit
+    - content.code.copy
   custom_dir: overrides
 
 repo_url: https://github.com/AirTechWick/grim-docs    
@@ -50,3 +58,15 @@ edit_uri: edit/main/docs/
 markdown_extensions:
   - attr_list
   - md_in_html
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
+plugins:
+  - glightbox
+  - search
+  

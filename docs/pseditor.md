@@ -10,26 +10,26 @@ Before you get started, you should extract the gamefiles via the Asset Manager. 
 
 Here’s my source folder:
 
-![sourceFolder](source-folder.png)
+![sourceFolder](images/source-folder.png)
 
 You won’t have all the folders I do, since I’m a super awesome modder involved in a ton of other various non-PFX projects. The two red arrows point out the folders you really want for this, the green arrow points out a folder you probably want, and the blue arrow points out a folder I made myself that contains the PFX I’ve created in the PSEditor, so I can keep what I make and what GD already has separated. You may also want /fxtrails/ but I haven’t had a use for it yet. /meshfx/ seems relevant but unless you’re doing really funky stuff you shouldn’t need it at all.
 
 From there, open up the PSEditor executable found in your [Grim Dawn Installation Directory]. You’ll be greeted with this amazing user interface:
 
-![text](pseditor-interface.png)
+![text](images/pseditor-interface.png)
 
 Looking good.
 
 You should then go to File>New in the top left, and be prepared for the program to freeze for about a half minute…
 
-![text](pseditor-interface2.png)
+![text](images/pseditor-interface2.png)
 
 Great design, Crate.
 
 When the editor unfreezes, you’ll get a window with a truly daunting number of buttons and options:
 
-![text](pseditor-interface3.png)
+![text](images/pseditor-interface3.png)
 
 On the bottom, righthand side of this window, click ‘Create New’. You’ll have made a new Emitter, which is probably now tossing a crapton of ugly debug checkerboards at you. Hoorah!
 
-![text](pseditor-interface4.png)
+![text](images/pseditor-interface4.png)
